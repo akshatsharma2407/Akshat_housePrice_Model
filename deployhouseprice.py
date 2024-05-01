@@ -1,23 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 00:10:14 2024
-
-@author: aksha
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  1 22:01:17 2024
-
-@author: aksha
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  1 11:51:51 2024
-
-@author: aksha
-"""
 
 import pickle
 import streamlit as st 
